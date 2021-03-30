@@ -1,0 +1,12 @@
+{
+  "name": "aws-js-upload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0",
+    "moment": "^2.29.1",
+    "sha256-uint8array": "^0.10.0"
+  }
+}
